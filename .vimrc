@@ -16,6 +16,8 @@ set spell spelllang=en_us
 nnoremap <leader>sss :set nospell<CR>
 " Mess around with vimrc
 nnoremap <leader>vrc :tabnew ~/.vimrc<CR>
+" save file
+nnoremap <leader>fs :w<CR>
 
 " set up for plugins
 set nocompatible
