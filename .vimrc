@@ -18,6 +18,8 @@ nnoremap <leader>sss :set nospell<CR>
 nnoremap <leader>vrc :tabnew ~/.vimrc<CR>
 " save file
 nnoremap <leader>fs :w<CR>
+" Quickly add todo item
+nnoremap <leader>tt i*[ ] <ESC>
 
 " set up for plugins
 set nocompatible
