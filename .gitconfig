@@ -1,6 +1,6 @@
 # This is Git's per-user configuration file.
 [user]
 	name = RickWeber
-        email = 863114+RickWeber@users.noreply.github.com
+	email = 863114+RickWeber@users.noreply.github.com
 [core]
 	editor = vim

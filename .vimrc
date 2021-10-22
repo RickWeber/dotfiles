@@ -16,8 +16,8 @@ set spell spelllang=en_us
 nnoremap <leader>sss :set nospell<CR>
 " Mess around with vimrc
 nnoremap <leader>vrc :tabnew ~/.vimrc<CR>
-" quickly add todo item
-nnoremap <leader>tt i* [ ]<ESC>
+" save file
+nnoremap <leader>fs :w<CR>
 
 " set up for plugins
 set nocompatible
@@ -34,4 +34,5 @@ Plug 'vimwiki/vimwiki'
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
+
 
