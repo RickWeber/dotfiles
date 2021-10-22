@@ -16,6 +16,8 @@ set spell spelllang=en_us
 nnoremap <leader>sss :set nospell<CR>
 " Mess around with vimrc
 nnoremap <leader>vrc :tabnew ~/.vimrc<CR>
+" quickly add todo item
+nnoremap <leader>tt i* [ ]<ESC>
 
 " set up for plugins
 set nocompatible
