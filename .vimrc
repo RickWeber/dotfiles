@@ -1,40 +1,36 @@
-" set leader
-let mapleader = " "
+" My vimrc
+" leader
+let mapleader = ' '
+" line numbering
 set rnu
-" shortcut for saving
-nnoremap <leader>fs :w<CR>
-" tabs
 set expandtab
 set shiftwidth=2
-" line wrapping
-set tw=80
-" 80 character text wrapping for some files
-" au BufRead,BufNewFile *.md *.wiki *.txt setlocal textwidth=80
-" set textwidth=80
-" Spellcheck
+" set runtimepath=~/.vim/bundle/start
+" spellcheck
 set spell spelllang=en_us
+" turn that shit off
 nnoremap <leader>sss :set nospell<CR>
-" Mess around with vimrc
+" open up vimrc
 nnoremap <leader>vrc :tabnew ~/.vimrc<CR>
 " save file
 nnoremap <leader>fs :w<CR>
-" Quickly add todo item
-nnoremap <leader>tt i*[ ] <ESC>
+" spell check
+nnoremap <leader>sc z=
+nnoremap <leader>sn ]s
+nnoremap <leader>sp [s
 
-" set up for plugins
+
 set nocompatible
 filetype plugin on
 syntax on
-" Plugins
-call plug#begin(has('nvim') ? stdpath('data') . '/plugged' : '~/.vim/plugged')
 
-" Declare the list of plugins.
-Plug 'tpope/vim-sensible'
-Plug 'tpope/fireplace'
-"Plug 'junegunn/seoul256.vim'
+" Line wrapping
+set tw=80
+
+" vim-plug
+call plug#begin('~/.vim/plugged')
+" vimwiki
 Plug 'vimwiki/vimwiki'
-
-" List ends here. Plugins become visible to Vim after this call.
+"Plug 'tpope/vim-sensible'
+"Plug 'tpope/fireplace'
 call plug#end()
-
-
