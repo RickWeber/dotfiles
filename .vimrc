@@ -20,6 +20,8 @@ nnoremap <leader>sn ]s
 nnoremap <leader>sp [s
 " maximizer
 noremap <leader>mmm :MaximizerToggle<CR>
+" skeleton files
+autocmd BufNewFiew [0-9]{4}-[0-9]{2}-[0-9]{2}.wiki 0r ~/.dotfiles/skeletons/diary.txt
 
 set nocompatible
 filetype plugin on
