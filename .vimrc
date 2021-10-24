@@ -21,7 +21,8 @@ nnoremap <leader>sp [s
 " maximizer
 noremap <leader>mmm :MaximizerToggle<CR>
 " skeleton files
-autocmd BufNewFile /[0-9]\\\{4\}-[0-9]\\\{\2\}-[0-9]\\\{2\}.wiki/ 0r ~/.dotfiles/skeletons/diary.txt
+" I've got to figure out how to do regex in vim... 
+" autocmd BufNewFile /[0-9]\\\{4\}-[0-9]\\\{\2\}-[0-9]\\\{2\}.wiki/ 0r ~/.dotfiles/skeletons/diary.txt
 
 set nocompatible
 filetype plugin on
