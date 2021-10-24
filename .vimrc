@@ -18,7 +18,8 @@ nnoremap <leader>fs :w<CR>
 nnoremap <leader>sc z=
 nnoremap <leader>sn ]s
 nnoremap <leader>sp [s
-
+" maximizer
+noremap <leader>mmm :MaximizerToggle<CR>
 
 set nocompatible
 filetype plugin on
@@ -31,6 +32,7 @@ set tw=80
 call plug#begin('~/.vim/plugged')
 " vimwiki
 Plug 'vimwiki/vimwiki'
+Plug 'szw/vim-maximizer'
 "Plug 'tpope/vim-sensible'
 "Plug 'tpope/fireplace'
 call plug#end()
