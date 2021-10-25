@@ -23,6 +23,13 @@ noremap <leader>mmm :MaximizerToggle<CR>
 " skeleton files
 " New diary entry in vimwiki
 autocmd BufNewFile ~/Dropbox/vimwiki/diary/*.wiki 0r ~/.dotfiles/skeletons/diary.txt
+" new scratch buffer
+noremap <leader>bsm :tabnew /tmp/scratch.md<CR>
+noremap <leader>bsp :tabnew /tmp/scratch.py<CR>
+noremap <leader>bsr :tabnew /tmp/scratch.R<CR>
+noremap <leader>bsj :tabnew /tmp/scratch.js<CR>
+noremap <leader>bss :tabnew /tmp/scratch.sh<CR>
+noremap <leader>bsc :tabnew /tmp/scratch.clj<CR>
 
 set nocompatible
 filetype plugin on
