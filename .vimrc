@@ -37,6 +37,8 @@ call plug#begin('~/.vim/plugged')
 Plug 'vimwiki/vimwiki'
 Plug 'szw/vim-maximizer'
 Plug 'shime/vim-livedown'
+Plug 'SirVer/ultisnips'
+Plug 'honza/vim-snippets'
 "Plug 'tpope/vim-sensible'
 "Plug 'tpope/fireplace'
 call plug#end()
