@@ -20,6 +20,10 @@ nnoremap <leader>sn ]s
 nnoremap <leader>sp [s
 " maximizer
 noremap <leader>mmm :MaximizerToggle<CR>
+" switch between splits
+noremap <leader>w <C-w><C-w>
+
+
 " skeleton files
 " New diary entry in vimwiki
 autocmd BufNewFile ~/Dropbox/vimwiki/diary/*.wiki 0r ~/.dotfiles/skeletons/diary.txt
