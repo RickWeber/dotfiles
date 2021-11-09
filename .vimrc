@@ -12,6 +12,8 @@ set spell spelllang=en_us
 nnoremap <leader>sss :set nospell<CR>
 " open up vimrc
 nnoremap <leader>vrc :tabnew ~/.vimrc<CR>
+" open up todo inbox
+nnoremap <leader>todo :tabnew ~/vimwiki/todo/inbox.wiki<CR>
 " save file
 nnoremap <leader>fs :w<CR>
 " spell check
