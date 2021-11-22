@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/rick/Documents/projects/teaCozy/resources/images'
+let g:netrw_dirhist_5='/home/rick/qmk_firmware/keyboards/keebio/iris/keymaps/default'
+let g:netrw_dirhist_4='/home/rick/qmk_firmware/keyboards/keebio/iris/keymaps'
+let g:netrw_dirhist_3='/home/rick/qmk_firmware/keyboards/keebio/iris'
+let g:netrw_dirhist_2='/home/rick/bin/NetLogo-6.2.0-64'
+let g:netrw_dirhist_1='/home/rick/bin'

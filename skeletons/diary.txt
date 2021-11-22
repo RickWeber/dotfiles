@@ -1,5 +1,23 @@
+= Day =
+
+== Journal ==
+
 == [[../todo/inbox|TODO]] ==
+
+=== priority ===
+* [ ] 
+
+=== maybe ===
+* [ ] Check out the big [[../todo/inbox|TODO]]
+* [ ] 
+
+=== routine ===
 
 * [ ] Think of three things I'm grateful for.
 * [ ] Codewars
 
+=== inbox ===
+* [ ] 
+
+=== soon ===
+* [ ] 

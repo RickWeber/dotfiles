@@ -25,10 +25,11 @@ noremap <leader>mmm :MaximizerToggle<CR>
 " switch between splits
 noremap <leader>w <C-w><C-w>
 
-
 " skeleton files
 " New diary entry in vimwiki
 autocmd BufNewFile ~/Dropbox/vimwiki/diary/*.wiki 0r ~/.dotfiles/skeletons/diary.txt
+" Brain dump skeleton 
+autocmd BufNewFile ~/Dropbox/vimwiki/diary/braindump/*.wiki 0r ~/.dotfiles/skeletons/braindump.txt
 " new scratch buffer
 noremap <leader>bsm :tabnew /tmp/scratch.md<CR>
 noremap <leader>bsp :tabnew /tmp/scratch.py<CR>
