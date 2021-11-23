@@ -123,3 +123,4 @@ export PATH=~/.emacs.d/bin:$PATH
 export PATH=~/.apps/NetLogo/NetLogo\ 6.2.0/:$PATH
 # add ~/.apps to the path
 export PATH=~/.apps:$PATH
+export PATH=~/bin:$PATH
