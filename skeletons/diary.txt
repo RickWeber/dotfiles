@@ -15,6 +15,10 @@
 
 * [ ] Think of three things I'm grateful for.
 * [ ] Codewars
+* [ ] Update title of this document
+* [ ] Find the opportunity to find serenity
+* [ ] Be more of who I want to be.
+* [ ] Find one hour of active learning
 
 === inbox ===
 * [ ] 
