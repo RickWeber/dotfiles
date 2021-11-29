@@ -5,7 +5,7 @@
 == [[../todo/inbox|TODO]] ==
 
 === priority ===
-* [ ] 
+* [ ] What do I need to do for today to be a successful day?
 
 === maybe ===
 * [ ] Check out the big [[../todo/inbox|TODO]]
@@ -15,6 +15,10 @@
 
 * [ ] Think of three things I'm grateful for.
 * [ ] Codewars
+* [ ] Update title of this document
+* [ ] Find the opportunity to find serenity
+* [ ] Be more of who I want to be.
+* [ ] Find one hour of active learning
 
 === inbox ===
 * [ ] 
