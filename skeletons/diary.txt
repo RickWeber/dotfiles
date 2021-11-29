@@ -5,7 +5,7 @@
 == [[../todo/inbox|TODO]] ==
 
 === priority ===
-* [ ] 
+* [ ] What do I need to do for today to be a successful day?
 
 === maybe ===
 * [ ] Check out the big [[../todo/inbox|TODO]]
