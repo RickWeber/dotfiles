@@ -15,6 +15,7 @@
 
 * [ ] Think of three things I'm grateful for.
 * [ ] Codewars
+* [ ] Advent of code https://adventofcode.com/2021/
 * [ ] Update title of this document
 * [ ] Find the opportunity to find serenity
 * [ ] Be more of who I want to be.

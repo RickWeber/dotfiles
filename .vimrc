@@ -1,10 +1,16 @@
 " My vimrc
+set nocompatible
+filetype plugin on
+syntax on
 " leader
 let mapleader = ' '
 " line numbering
 set rnu
+set number
 set expandtab
 set shiftwidth=2
+" Line wrapping
+set tw=80
 " set runtimepath=~/.vim/bundle/start
 " spellcheck
 set spell spelllang=en_us
@@ -12,6 +18,8 @@ set spell spelllang=en_us
 nnoremap <leader>sss :set nospell<CR>
 " open up vimrc
 nnoremap <leader>vrc :tabnew ~/.vimrc<CR>
+" restart vimrc
+nmap <leader>vrr :source ~/.vimrc<CR>
 " open up todo inbox
 nnoremap <leader>todo :tabnew ~/vimwiki/todo/inbox.wiki<CR>
 " save file
@@ -24,7 +32,8 @@ nnoremap <leader>sp [s
 noremap <leader>mmm :MaximizerToggle<CR>
 " switch between splits
 noremap <leader>w <C-w><C-w>
-
+vnoremap > >gv
+vnoremap < <gv
 " skeleton files
 " New diary entry in vimwiki
 autocmd BufNewFile ~/Dropbox/vimwiki/diary/*.wiki 0r ~/.dotfiles/skeletons/diary.txt
@@ -38,12 +47,6 @@ noremap <leader>bsj :tabnew /tmp/scratch.js<CR>
 noremap <leader>bss :tabnew /tmp/scratch.sh<CR>
 noremap <leader>bsc :tabnew /tmp/scratch.clj<CR>
 
-set nocompatible
-filetype plugin on
-syntax on
-
-" Line wrapping
-set tw=80
 
 " vim-plug
 call plug#begin('~/.vim/plugged')
