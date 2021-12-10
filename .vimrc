@@ -9,13 +9,15 @@ set rnu
 set number
 set expandtab
 set shiftwidth=2
+set scrolloff=6
+set sidescrolloff=8
 " Line wrapping
 set tw=80
 " set runtimepath=~/.vim/bundle/start
 " spellcheck
 set spell spelllang=en_us
 " turn that shit off
-nnoremap <leader>sss :set nospell<CR>
+nnoremap <leader>sss :set nospell !<CR>
 " open up vimrc
 nnoremap <leader>vrc :tabnew ~/.vimrc<CR>
 " restart vimrc
@@ -57,5 +59,5 @@ Plug 'shime/vim-livedown'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 "Plug 'tpope/vim-sensible'
-"Plug 'tpope/fireplace'
+Plug 'tpope/fireplace'
 call plug#end()
