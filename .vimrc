@@ -57,5 +57,6 @@ Plug 'shime/vim-livedown'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 "Plug 'tpope/vim-sensible'
-Plug 'tpope/fireplace'
+Plug 'tpope/vim-fireplace'
+"Plug 'https://www.github.com/tpope/fireplace.git'
 call plug#end()
