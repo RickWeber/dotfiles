@@ -9,7 +9,6 @@
 
 === maybe ===
 * [ ] Check out the big [[../todo/inbox|TODO]]
-* [ ] 
 
 === routine ===
 
@@ -21,8 +20,8 @@
 * [ ] Be more of who I want to be.
 * [ ] Find one hour of active learning
 
-=== inbox ===
-* [ ] 
-
 === soon ===
+* [ ] Pull old stuff out of holding pen at the bottom of the big TODO
+
+=== inbox ===
 * [ ] 
