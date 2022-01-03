@@ -11,17 +11,19 @@
 * [ ] Check out the big [[../todo/inbox|TODO]]
 
 === routine ===
-
+* [ ] Update title of this document.
+* [ ] Write in journal.
 * [ ] Think of three things I'm grateful for.
-* [ ] Codewars
-* [ ] Advent of code https://adventofcode.com/2021/
-* [ ] Update title of this document
-* [ ] Find the opportunity to find serenity
+* [ ] Find the opportunity to find serenity.
 * [ ] Be more of who I want to be.
-* [ ] Find one hour of active learning
+* [ ] Do a stretch.
+* [ ] Codewars.
+* [ ] Read something.
+* [ ] Active learning.
 
-=== soon ===
-* [ ] Pull old stuff out of holding pen at the bottom of the big TODO
+=== goals for this year ===
+* Put together a [[../portfolio/main|portfolio]]
+* Make something of the PD project
 
 === inbox ===
 * [ ] 
