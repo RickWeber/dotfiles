@@ -18,6 +18,8 @@ set tw=80
 set spell spelllang=en_us
 " turn that shit off
 nnoremap <leader>sss :set nospell !<CR>
+" toggle search highlighting
+noremap <leader>hls :set invhls<CR>
 " open up vimrc
 nnoremap <leader>vrc :tabnew ~/.vimrc<CR>
 " restart vimrc
