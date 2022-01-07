@@ -7,3 +7,4 @@ alias pdf_cat="gs -dNOPAUSE -sDEVICE=pdfwrite -sOUTPUTFILE=combined_pdf.pdf -dBA
 # alias v='nvim'
 alias capsToESC="xmodmap -e 'clear Lock' -e 'keycode 0x42 = Escape'"
 alias vimsession="vim -S Session.vim"
+alias python="python3"
