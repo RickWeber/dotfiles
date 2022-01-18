@@ -4,13 +4,15 @@
 
 == [[../todo/inbox|TODO]] ==
 
-=== daily metrics ===
-* [ ] startup procedure... jot down some sort of plan for the day.
-* [ ] shutdown procedure... journal, close down, capture items into my system.
-* [ ] did I spend at least some time doing focused work?
-
 === priority ===
 * [ ] What do I need to do for today to be a successful day?
+
+=== daily metrics ===
+* [ ] startup procedure... jot down some sort of plan for the day.
+  * [ ] Check hr email. 
+  * [ ] Atomic Habits progress
+* [ ] shutdown procedure... journal, close down, capture items into my system.
+* [ ] did I spend at least some time doing focused work?
 
 === maybe ===
 * [ ] Check out the big [[../todo/inbox|TODO]]
