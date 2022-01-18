@@ -11,6 +11,9 @@
 * [ ] startup procedure... jot down some sort of plan for the day.
   * [ ] Check hr email. 
   * [ ] Atomic Habits progress
+  * [ ] Open up a portfolio project file -- and celebrate building up that
+    gateway habit!
+
 * [ ] shutdown procedure... journal, close down, capture items into my system.
 * [ ] did I spend at least some time doing focused work?
 
