@@ -13,8 +13,10 @@
   * [ ] Atomic Habits progress
   * [ ] Open up a portfolio project file -- and celebrate building up that
     gateway habit!
-
+  * [ ] Question (start of day): What am I optimizing for today?
+* [ ] Question (during day): What' the best small thing I can do right now?
 * [ ] shutdown procedure... journal, close down, capture items into my system.
+  * [ ] Question (end of day): Did I do my best?
 * [ ] did I spend at least some time doing focused work?
 
 === maybe ===
