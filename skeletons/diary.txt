@@ -4,6 +4,10 @@
 
 == [[../todo/inbox|TODO]] ==
 
+=== goals for this year ===
+* Put together a [[../portfolio/main|portfolio]]
+* Make something of the PD project
+
 === priority ===
 * [ ] What do I need to do for today to be a successful day?
 
@@ -33,10 +37,6 @@
 * [ ] Codewars.
 * [ ] Read something.
 * [ ] Active learning.
-
-=== goals for this year ===
-* Put together a [[../portfolio/main|portfolio]]
-* Make something of the PD project
 
 === inbox ===
 * [ ] 
