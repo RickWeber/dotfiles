@@ -29,7 +29,10 @@
   * [ ] Question (end of day): Did I do my best?
   * [ ] Write in journal.
   * [ ] Capture loose items and pass to tomorrow
+<<<<<<< HEAD
   * [ ] Push all open tabs to OneTab
+=======
+>>>>>>> 2b04a8ed7c786d6ac82c57a010c381dd0261de0e
 
 === daily metrics ===
 * [ ] did startup procedure?
