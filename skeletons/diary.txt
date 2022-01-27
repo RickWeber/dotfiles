@@ -2,15 +2,18 @@
 
 == [[../todo/inbox|TODO]] ==
 
+=== priority ===
+* [ ]
+* [ ]
+* [ ]
+
 === goals for this year ===
 * Put together a [[../portfolio/main|portfolio]]
 * Make something of the PD project
 
-=== priority ===
-* [ ] What do I need to do for today to be a successful day?
-
 === routine ===
 * [ ] startup procedure... jot down some sort of plan for the day.
+  * [ ] What do I need to do for today to be a successful day?
   * [ ] Check hr email. 
   * [ ] Open up a portfolio project file -- and celebrate building up that
     gateway habit!
@@ -29,10 +32,7 @@
   * [ ] Question (end of day): Did I do my best?
   * [ ] Write in journal.
   * [ ] Capture loose items and pass to tomorrow
-<<<<<<< HEAD
   * [ ] Push all open tabs to OneTab
-=======
->>>>>>> 2b04a8ed7c786d6ac82c57a010c381dd0261de0e
 
 === daily metrics ===
 * [ ] did startup procedure?
