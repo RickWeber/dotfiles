@@ -1,35 +1,51 @@
 = Day =
 
-== Journal ==
-
 == [[../todo/inbox|TODO]] ==
 
-=== daily metrics ===
-* [ ] startup procedure... jot down some sort of plan for the day.
-* [ ] shutdown procedure... journal, close down, capture items into my system.
-* [ ] did I spend at least some time doing focused work?
-
 === priority ===
-* [ ] What do I need to do for today to be a successful day?
-
-=== maybe ===
-* [ ] Check out the big [[../todo/inbox|TODO]]
-* [ ] Work on [[../RforEcon/main]]
-
-=== routine ===
-* [ ] Update title of this document.
-* [ ] Write in journal.
-* [ ] Think of three things I'm grateful for.
-* [ ] Find the opportunity to find serenity.
-* [ ] Be more of who I want to be.
-* [ ] Do a stretch.
-* [ ] Codewars.
-* [ ] Read something.
-* [ ] Active learning.
+* [ ]
+* [ ]
+* [ ]
 
 === goals for this year ===
 * Put together a [[../portfolio/main|portfolio]]
 * Make something of the PD project
 
+=== routine ===
+* [ ] startup procedure... jot down some sort of plan for the day.
+  * [ ] What do I need to do for today to be a successful day?
+  * [ ] Check hr email. 
+  * [ ] Open up a portfolio project file -- and celebrate building up that
+    gateway habit!
+  * [ ] Question (start of day): What am I optimizing for today?
+  * [ ] Update title of this document.
+  * [ ] Think of three things I'm grateful for.
+  * [ ] Codewars.
+  * [ ] Do a stretch.
+
+* [ ] Mantras
+  * [ ] Find the opportunity to find serenity.
+  * [ ] Be more of who I want to be.
+  * [ ] Question (during day): What' the best small thing I can do right now?
+
+* [ ] shutdown procedure... journal, close down, capture items into my system.
+  * [ ] Question (end of day): Did I do my best?
+  * [ ] Write in journal.
+  * [ ] Capture loose items and pass to tomorrow
+  * [ ] Push all open tabs to OneTab
+
+=== daily metrics ===
+* [ ] did startup procedure?
+* [ ] did shutdown procedure?
+* [ ] spent some time doing active learning?
+* [ ] read something?
+
+=== maybe ===
+* [ ] Check out the big [[../todo/inbox|TODO]]
+* [ ] Work on [[../RforEcon/main]]
+
 === inbox ===
 * [ ] 
+
+== Journal ==
+
