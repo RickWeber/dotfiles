@@ -3,7 +3,7 @@
 == [[../todo/inbox|TODO]] ==
 
 === priority ===
-* [ ]
+* [ ] make sure grading is done for the week.
 * [ ]
 * [ ]
 
