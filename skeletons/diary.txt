@@ -2,6 +2,9 @@
 
 == [[../todo/inbox|TODO]] ==
 
+=== mini goals to start the day ===
+* [ ]
+
 === priority ===
 * [ ] make sure grading is done for the week.
 * [ ]
@@ -33,6 +36,7 @@
   * [ ] Write in journal.
   * [ ] Capture loose items and pass to tomorrow
   * [ ] Push all open tabs to OneTab
+  * [ ] Write a couple mini goals for tomorrow
 
 === daily metrics ===
 * [ ] did startup procedure?
@@ -46,6 +50,17 @@
 
 === inbox ===
 * [ ] 
+
+=== Schedule ===
+* [ ] 9am
+* [ ] 10am
+* [ ] 11am
+* [ ] noon
+* [ ] 1pm
+* [ ] 2pm
+* [ ] 3pm
+* [ ] 4pm
+* [ ] 5pm
 
 == Journal ==
 

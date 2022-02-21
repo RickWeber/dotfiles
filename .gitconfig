@@ -4,3 +4,5 @@
 	email = 863114+RickWeber@users.noreply.github.com
 [core]
 	editor = vim
+[init]
+	defaultBranch = main
