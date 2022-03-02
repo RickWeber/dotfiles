@@ -3,6 +3,7 @@
 == [[../todo/inbox|TODO]] ==
 
 === mini goals to start the day ===
+* [ ] quick yoga: catcow/downdog/twisty-arm-thing
 * [ ]
 
 === priority ===
