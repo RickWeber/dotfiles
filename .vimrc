@@ -50,6 +50,8 @@ noremap <leader>bsr :tabnew /tmp/scratch.R<CR>
 noremap <leader>bsj :tabnew /tmp/scratch.js<CR>
 noremap <leader>bss :tabnew /tmp/scratch.sh<CR>
 noremap <leader>bsc :tabnew /tmp/scratch.clj<CR>
+" Copy to systemclipboard
+noremap <leader>ccc "+y
 
 
 " vim-plug
