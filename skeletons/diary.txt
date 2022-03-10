@@ -23,6 +23,7 @@
 
 === goals for this year ===
 * Put together a [[../portfolio/main|portfolio]]
+* [ ] [[../portfolio/wordle_search]]
 * Make something of the PD project
 * [ ] Work on [[../RforEcon/main]]
 
