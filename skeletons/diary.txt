@@ -1,7 +1,7 @@
 = Day =
 
 * [ ] Update title of this document.
-* [ ] type 'ctrl+Enter' with the cursor on this line.
+* [ ] type 'ctrl+SPC' with the cursor on this line.
 * [ ] sketch out a schedule for the day
 * [ ] remember big goals
 * [ ] do some mini goals to start the day with easy wins
