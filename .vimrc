@@ -64,5 +64,6 @@ Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 "Plug 'tpope/vim-sensible'
 Plug 'tpope/vim-fireplace'
+Plug 'tpop/vim-abolish'
 "Plug 'https://www.github.com/tpope/fireplace.git'
 call plug#end()
