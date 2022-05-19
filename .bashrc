@@ -124,3 +124,9 @@ export PATH=~/.apps/NetLogo/NetLogo\ 6.2.0/:$PATH
 # add ~/.apps to the path
 export PATH=~/.apps:$PATH
 export PATH=~/bin:$PATH
+
+# virtualenvwrapper settings
+export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+export WORKON_HOME=$HOME/.virtualenvs
+export VIRTUALENVWRAPPER_VIRTUALENV=/home/rick/.local/bin/virtualenv
+source ~/.local/bin/virtualenvwrapper.sh
