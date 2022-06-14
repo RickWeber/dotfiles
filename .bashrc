@@ -117,13 +117,21 @@ if ! shopt -oq posix; then
 fi
 
 
+# set PATH so it includes user's private bin if it exists
+if [ -d "$HOME/bin" ] ; then
+    PATH="$HOME/bin:$PATH"
+fi
+
+# set PATH so it includes user's private bin if it exists
+if [ -d "$HOME/.local/bin" ] ; then
+    PATH="$HOME/.local/bin:$PATH"
+fi
 # add ~/.emacs.d/bin to the path
 export PATH=~/.emacs.d/bin:$PATH
 # add ~/.apps/NetLogo to the path
 export PATH=~/.apps/NetLogo/NetLogo\ 6.2.0/:$PATH
 # add ~/.apps to the path
 export PATH=~/.apps:$PATH
-export PATH=~/bin:$PATH
 
 # virtualenvwrapper settings
 export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
