@@ -1,9 +1,17 @@
 = Day =
+== What' the best small thing I can do right now? ==
+
+"You must avoid at all costs the idea that you can manage learning
+ several skills at a time. You need to develop your powers of concentration
+ and understand that trying to multitask will be the death of the process."
+                                                            (Robert Greene)
 
 * [ ] Update title of this document
 * [ ] type 'ctrl+SPC' with the cursor on this line
 * [ ] sketch out a schedule for the day
-* [ ] remember big goals
+* [ ] remember big goals:
+  * Put together a [[../portfolio/main|portfolio]]
+  * Find a target role
 * [ ] do some mini goals to start the day with easy wins
 * [ ] update the list of today's priorities by checking things left in the inbox
 * [ ] do the rest of the startup procedure near the bottom of this document
@@ -21,12 +29,10 @@
 * [ ] 3pm
 * [ ] 4pm
 * [ ] 5pm
+* [ ] 6pm
+* [ ] 7pm
+* [ ] 8pm
 
-=== goals for this year ===
-* Put together a [[../portfolio/main|portfolio]]
-* [ ] [[../portfolio/wordle_search]]
-* Make something of the PD project
-* [ ] Work on [[../RforEcon/main]]
 
 == [[../todo/inbox|TODO]] ==
 
@@ -45,39 +51,35 @@
 * [ ]
 
 === routine ===
-* [ ] startup procedure... jot down some sort of plan for the day.
-  * [ ] What do I need to do for today to be a successful day?
-  * [ ] Check hr email. 
-  * [ ] Open up a portfolio project file -- and celebrate building up that
-    gateway habit!
-  * [ ] Question: What am I optimizing for today?
+* [ ] startup procedure
+  * [ ] Determine what am I optimizing for today and make a short plan for the
+    day. (TRY TIMEBLOCKING)
   * [ ] Think of three things I'm grateful for.
-  * [ ] Codewars.
   * [ ] Do a stretch.
-
-* [ ] Mantras
-  * [ ] Find the opportunity to find serenity.
-  * [ ] Be more of who I want to be.
-  * [ ] Practice patience
-  * [ ] Question (during day): What' the best small thing I can do right now?
-  * [ ] "You must avoid at all costs the idea that you can manage learning
-         several skills at a time. You need to develop your powers of concentration
-         and understand that trying to multitask will be the death of the process."
-                                               (Robert Greene)
+  * [ ] Write a mantra somewhere I'll see it throughout the day:
+    * [ ] Find the opportunity to find serenity.
+    * [ ] Be more of who I want to be.
+    * [ ] Practice patience
+    * [ ] Do one thing
+    * [ ] Baby steps
+    * [ ] Take a breath. Choose how to respond to the world.
+    * [ ] What's the best small thing I can do right now?
 
 * [ ] shutdown procedure... journal, close down, capture items into my system.
   * [ ] Push loose items to tomorrow's inbox. Maybe add a nice mini goal.
   * [ ] Push all open tabs to OneTab
   * [ ] Write in journal.
-  * [ ] Question: Did I do my best?
   * [ ] Daily Metrics:
     * [ ] did startup procedure?
     * [ ] did shutdown procedure?
     * [ ] spent some time doing active learning?
     * [ ] read something?
+    * [ ] what grade would I give myself for the day?
 
 === maybe ===
 * [ ] Work on [[../RforEcon/main]]
+* [ ] Work on [[../portfolio/main|portfolio]]
+
 
 == Journal ==
 
