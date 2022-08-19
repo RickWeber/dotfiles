@@ -37,6 +37,7 @@
 * Put together a [[../portfolio/main|portfolio]]
   * [ ] [[../portfolio/mental-health-dashboard]]
   * ECI project
+  * Github gists for Crack the Coding Interview questions.
 * [ ] Work on [[../RforEcon/main]]
 * (Make something of the PD project)
 =======
