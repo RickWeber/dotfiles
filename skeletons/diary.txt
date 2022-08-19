@@ -24,9 +24,10 @@
 
 === goals for this year ===
 * Put together a [[../portfolio/main|portfolio]]
-* [ ] [[../portfolio/wordle_search]]
-* Make something of the PD project
+  * [ ] [[../portfolio/mental-health-dashboard]]
+  * ECI project
 * [ ] Work on [[../RforEcon/main]]
+* (Make something of the PD project)
 
 == [[../todo/inbox|TODO]] ==
 
