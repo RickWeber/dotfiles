@@ -56,7 +56,7 @@
 === inbox ===
 * [ ] Check the big [[../todo/inbox|TODO]] and just *look* to see if there's a
   task I should start today.
-* [ ]
+* [ ] Read a page of [[../TAOCP/main|Art of Computer Programming]].
 
 === routine ===
 * [ ] startup procedure
