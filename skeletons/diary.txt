@@ -1,45 +1,13 @@
 = Day =
-== What' the best small thing I can do right now? ==
-
 "You must avoid at all costs the idea that you can manage learning
  several skills at a time. You need to develop your powers of concentration
  and understand that trying to multitask will be the death of the process."
                                                             (Robert Greene)
-
-* [ ] Update title of this document
-* [ ] type 'ctrl+SPC' with the cursor on this line
-* [ ] sketch out a schedule for the day
-* [ ] remember big goals:
-  * Put together a [[../portfolio/main|portfolio]]
-  * Find a target role
-* [ ] do some mini goals to start the day with easy wins
-* [ ] update the list of today's priorities by checking things left in the inbox
-* [ ] do the rest of the startup procedure near the bottom of this document
-* [ ] copy a mantra to somewhere in this document where I'll see it
-* [ ] delete this section so when you get to the top of your diary you see the
-  most important things
-
-== Schedule ==
-* [ ] 9am
-* [ ] 10am
-* [ ] 11am
-* [ ] noon
-* [ ] 1pm
-* [ ] 2pm
-* [ ] 3pm
-* [ ] 4pm
-* [ ] 5pm
-* [ ] 6pm
-* [ ] 7pm
-* [ ] 8pm
-
 === goals for this year ===
 * Put together a [[../portfolio/main|portfolio]]
   * [ ] [[../portfolio/mental-health-dashboard]]
-  * ECI project
+  * garden club website
   * Github gists for Crack the Coding Interview questions.
-* [ ] Work on [[../RforEcon/main]]
-* (Make something of the PD project)
 =======
 
 == [[../todo/inbox|TODO]] ==
@@ -54,24 +22,13 @@
 * [ ]
 
 === inbox ===
-* [ ] Check the big [[../todo/inbox|TODO]] and just *look* to see if there's a
-  task I should start today.
-* [ ] Read a page of [[../TAOCP/main|Art of Computer Programming]].
+* [ ]
 
 === routine ===
 * [ ] startup procedure
-  * [ ] Determine what am I optimizing for today and make a short plan for the
-    day. (TRY TIMEBLOCKING)
-  * [ ] Think of three things I'm grateful for.
+  * [ ] What is today's theme?
+  * [ ] Think of something I'm grateful for.
   * [ ] Do a stretch.
-  * [ ] Write a mantra somewhere I'll see it throughout the day:
-    * [ ] Find the opportunity to find serenity.
-    * [ ] Be more of who I want to be.
-    * [ ] Practice patience
-    * [ ] Do one thing
-    * [ ] Baby steps
-    * [ ] Take a breath. Choose how to respond to the world.
-    * [ ] What's the best small thing I can do right now?
 
 * [ ] shutdown procedure... journal, close down, capture items into my system.
   * [ ] Push loose items to tomorrow's inbox. Maybe add a nice mini goal.
@@ -83,11 +40,6 @@
     * [ ] spent some time doing active learning?
     * [ ] read something?
     * [ ] what grade would I give myself for the day?
-
-=== maybe ===
-* [ ] Work on [[../RforEcon/main]]
-* [ ] Work on [[../portfolio/main|portfolio]]
-
 
 == Journal ==
 
