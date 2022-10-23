@@ -5,9 +5,8 @@
                                                             (Robert Greene)
 === goals for this year ===
 * Put together a [[../portfolio/main|portfolio]]
-  * [ ] [[../portfolio/mental-health-dashboard]]
-  * garden club website
-  * Github gists for Crack the Coding Interview questions.
+* Finish "TypeScript Quickly" and "React Quickly"
+* garden club website
 =======
 
 == [[../todo/inbox|TODO]] ==
@@ -19,7 +18,7 @@
 
 === priority ===
 * [ ] sort through inbox items
-* [ ]
+* [ ] pull yesterday's undone items
 
 === inbox ===
 * [ ]
