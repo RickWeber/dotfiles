@@ -137,4 +137,4 @@ export PATH=~/.apps:$PATH
 export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
 export WORKON_HOME=$HOME/.virtualenvs
 export VIRTUALENVWRAPPER_VIRTUALENV=/home/rick/.local/bin/virtualenv
-source ~/.local/bin/virtualenvwrapper.sh
+# source ~/.local/bin/virtualenvwrapper.sh
