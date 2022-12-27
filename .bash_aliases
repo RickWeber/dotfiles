@@ -9,3 +9,6 @@ alias capsToESC="xmodmap -e 'clear Lock' -e 'keycode 0x42 = Escape'"
 alias vimsession="vim -S Session.vim"
 alias python="python3"
 alias uua="sudo apt update && sudo apt upgrade && sudo apt autoremove"
+cheat () {
+  curl cheat.sh/$1
+}
