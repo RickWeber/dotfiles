@@ -1,44 +1,29 @@
 = Day =
-"You must avoid at all costs the idea that you can manage learning
- several skills at a time. You need to develop your powers of concentration
- and understand that trying to multitask will be the death of the process."
-                                                            (Robert Greene)
-=== goals for this year ===
-* Put together a [[../portfolio/main|portfolio]]
-* Finish "React Quickly"
-* garden club website
-=======
 
 == [[../todo/inbox|TODO]] ==
 
 === mini goals to start the day ===
-* [ ] quick yoga: catcow/downdog/twisty-arm-thing
-* [ ] Check the big [[../todo/inbox|TODO]] and just *look* to see if there's a
-  task I should start today.
 
 === priority ===
+* [ ] do a stretch
 * [ ] sort through inbox items
 * [ ] pull yesterday's undone items
+* [ ] Check the big [[../todo/inbox|TODO]] and just *look* to see if there's a
+  task I should start today.
 
 === inbox ===
 * [ ]
 
 === routine ===
 * [ ] startup procedure
-  * [ ] What is today's theme?
+  * [ ] What one thing do I have to do today.
   * [ ] Think of something I'm grateful for.
   * [ ] Do a stretch.
 
 * [ ] shutdown procedure... journal, close down, capture items into my system.
-  * [ ] Push loose items to tomorrow's inbox. Maybe add a nice mini goal.
   * [ ] Push all open tabs to OneTab
   * [ ] Write in journal.
-  * [ ] Daily Metrics:
-    * [ ] did startup procedure?
-    * [ ] did shutdown procedure?
-    * [ ] spent some time doing active learning?
-    * [ ] read something?
-    * [ ] what grade would I give myself for the day?
+  * [ ] What grade would I give myself for the day?
 
 == Journal ==
 
