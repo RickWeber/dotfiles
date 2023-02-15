@@ -53,6 +53,10 @@ noremap <leader>bsc :tabnew /tmp/scratch.clj<CR>
 " Copy to systemclipboard
 noremap <leader>ccc "+y
 
+" copilot
+imap <silent><script><expr> <C-J> copilot#Accept("\<CR>")
+let g:copilot_no_tab_map = v:true
+
 
 " vim-plug
 call plug#begin('~/.vim/plugged')
