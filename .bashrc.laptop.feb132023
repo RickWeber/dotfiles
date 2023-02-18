@@ -16,8 +16,8 @@ HISTCONTROL=ignoreboth
 shopt -s histappend
 
 # for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
-HISTSIZE=10000
-HISTFILESIZE=20000
+HISTSIZE=-1000
+HISTFILESIZE=-2000
 
 # check the window size after each command and, if necessary,
 # update the values of LINES and COLUMNS.
@@ -116,29 +116,38 @@ if ! shopt -oq posix; then
   fi
 fi
 
+# Add to PATH
+# export PATH=/home/rick/bin/:$PATH
+# export PATH=/home/rick/bin/NetLogo-6.2.0-64/NetLogo\ 6.2.0/NetLogo:$PATH
 
-# set PATH so it includes user's private bin if it exists
-if [ -d "$HOME/bin" ] ; then
-    PATH="$HOME/bin:$PATH"
-fi
+export PATH=~/.doom.d/bin:~/bin/NetLogo-6.2.0-64/NetLogo\ 6.2.0/NetLogo:$PATH
+export VIMCONFIG=~/.vim/
 
-# set PATH so it includes user's private bin if it exists
-if [ -d "$HOME/.local/bin" ] ; then
-    PATH="$HOME/.local/bin:$PATH"
-fi
-# add ~/.emacs.d/bin to the path
-export PATH=~/.emacs.d/bin:$PATH
-# add ~/.apps/NetLogo to the path
-export PATH=~/.apps/NetLogo/NetLogo\ 6.2.0/:$PATH
-# add ~/.apps to the path
-export PATH=~/.apps:$PATH
-
-# virtualenvwrapper settings
-#export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
-#export WORKON_HOME=$HOME/.virtualenvs
-#export VIRTUALENVWRAPPER_VIRTUALENV=/home/rick/.local/bin/virtualenv
-# source ~/.local/bin/virtualenvwrapper.sh
+export WORKON_HOME=$HOME/.virtualenvs
+source /usr/local/bin/virtualenvwrapper.sh
+. "$HOME/.cargo/env"
 
 # fnm
 export PATH="/home/rick/.local/share/fnm:$PATH"
 eval "`fnm env`"
+eval export PATH="/run/user/1000/fnm_multishells/224577_1676319723790/bin":$PATH
+export FNM_LOGLEVEL="info"
+export FNM_DIR="/home/rick/.local/share/fnm"
+export FNM_NODE_DIST_MIRROR="https://nodejs.org/dist"
+export FNM_ARCH="x64"
+export FNM_VERSION_FILE_STRATEGY="local"
+export FNM_MULTISHELL_PATH="/run/user/1000/fnm_multishells/224577_1676319723790"
+__fnm_use_if_file_found() {
+    if [[ -f .node-version || -f .nvmrc ]]; then
+    fnm use --silent-if-unchanged
+fi
+
+}
+
+__fnmcd() {
+    \cd "$@" || return $?
+    __fnm_use_if_file_found
+}
+
+alias cd=__fnmcd
+__fnm_use_if_file_found
