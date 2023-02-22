@@ -1,3 +1,5 @@
+-- compatibility
+
 -- leader
 vim.g.mapleader = ' '
 
@@ -81,9 +83,46 @@ vim.g.copilot_no_tab_map = true
 -- vim-plug
 vim.cmd [[packadd! packer.nvim]]
 
+-- org mode settings
+-- vim.cmd [[
+--   use {
+--     "nvim-neorg/neorg",
+--     config = function()
+--       require('neorg').setup {
+--         load = {
+--           ["core.defaults"] = {},
+--           ["core.norg.concealer"] = {},
+--           ["core.norg.dirman"] = {
+--             config = {
+--               workspaces = {
+--                 notes = "~/notes",
+--               },
+--             },
+--           },
+--         },
+--       }
+--     end,
+--     run  = ":Neorg sync-parsers",
+--     requires = "nvim-lua/plenary.nvim"
+--   }
+--   ]]
+
+-- Define a function to toggle between the default appearance
+-- and a view optimized for presentations and screencasts (e.g.
+-- larger font, higher contrast, etc.)
+
+
+
 return require('packer').startup(function()
 -- vimwiki
 use { 'vimwiki/vimwiki' }
+
+-- org mode
+-- use { 'nvim-treesitter/nvim-treesitter' }
+-- use { 'nvim-orgmode/orgmode', config = function() 
+--   require('orgmode').setup{} 
+-- end
+-- }
 
 -- maximize split
 use { 'szw/vim-maximizer' }
@@ -99,46 +138,3 @@ use { 'honza/vim-snippets' }
 use { 'tpope/vim-fireplace' }
 use { 'tpope/vim-abolish' }
 end)
-
-
-
-
---
---
---
---
--- set runtimepath^=~/.vim runtimepath+=~/.vim/after
---vim.cmd('set runtimepath^=~/.vim runtimepath+=~/.vim/after') -- For Neovim
--- let &packpath  = &runtimepath
---vim.cmd('let &packpath  = &runtimepath') -- For Neovim
--- source ~/.vimrc
---vim.cmd('source ~/.vimrc') -- For Neovim
--- run vimrc
--- vim -u vimrc
-
-
-
--- Define a function to toggle the appearance
---local original_guifont = vim.opt.guifont:get()
---local original_linespace = vim.opt.linespace:get()
---local original_guioptions = vim.opt.guioptions:get()
-
---function toggle_presentation_mode()
---  if vim.opt.guifont:get() == original_guifont then
---    vim.opt.guifont = 'FiraCode Nerd Font:h24'
---    vim.opt.linespace = 8
---    vim.opt.guioptions:remove('r')
---    vim.opt.guioptions:remove('l')
---    vim.opt.guioptions:remove('T')
---  else
---    vim.opt.guifont = original_guifont
---    vim.opt.linespace = original_linespace
---    vim.opt.guioptions:set(original_guioptions)
---  end
---end
-
-
-
--- Define the mapping to toggle presentation mode
---vim.api.nvim_set_keymap('n', '<leader>present', ':lua toggle_presentation_mode()<CR>', { noremap = true, silent = true })
-
