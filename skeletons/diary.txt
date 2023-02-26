@@ -2,7 +2,8 @@
 
 == [[../todo/inbox|TODO]] ==
 
-=== mini goals to start the day ===
+=== projects ===
+* [[../todo/webgarden/main|Web garden server project]]
 
 === priority ===
 * [ ] do a stretch
