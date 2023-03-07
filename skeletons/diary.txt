@@ -20,10 +20,13 @@
   * [ ] What one thing do I have to do today.
   * [ ] Think of something I'm grateful for.
   * [ ] Do a stretch.
+  * [ ] What was my mood like this morning?
 
 * [ ] shutdown procedure... journal, close down, capture items into my system.
   * [ ] Push all open tabs to OneTab
   * [ ] Write in journal.
+  * [ ] What was my mood like today?
+  * [ ] How anxious was I today on a scale of 0 to 3?
   * [ ] What grade would I give myself for the day?
 
 == Journal ==
