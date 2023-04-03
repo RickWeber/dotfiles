@@ -77,8 +77,8 @@ vim.api.nvim_set_keymap('n', '<leader>bsc', ':tabnew /tmp/scratch.clj<CR>', { no
 vim.api.nvim_set_keymap('n', '<leader>ccc', '"+y', { noremap = true })
 
 -- copilot
-vim.api.nvim_set_keymap('i', '<C-j>', '<cmd>lua require("copilot").expand()<CR>', { noremap = true, silent = true, expr = true })
 vim.g.copilot_no_tab_map = true
+vim.api.nvim_set_keymap('i', '<C-j>', '<cmd>lua require("copilot").expand()<CR>', { noremap = true, silent = true, expr = true })
 
 -- vim-plug
 vim.cmd [[packadd! packer.nvim]]

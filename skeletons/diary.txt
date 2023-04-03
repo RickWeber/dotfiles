@@ -1,4 +1,5 @@
 = Day =
+Let go of the need to control so many things
 
 == [[../todo/inbox|TODO]] ==
 
@@ -19,6 +20,10 @@
 * [ ] startup procedure
   * [ ] What one thing do I have to do today.
   * [ ] Think of something I'm grateful for.
+  * [ ] Say something nice to yourself.
+    * [ ] Default options:
+      * I'm very close to being able to afford to retire.
+      * I am (usually) very good at reading between the lines.
   * [ ] Do a stretch.
   * [ ] What was my mood like this morning?
 
