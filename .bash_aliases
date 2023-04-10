@@ -12,3 +12,4 @@ alias uua="sudo apt update && sudo apt upgrade && sudo apt autoremove"
 cheat () {
   curl cheat.sh/$1
 }
+alias cowloop="while true; do   clear && fortune | cowsay;   sleep 15s; done"
